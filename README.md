@@ -1,4 +1,4 @@
-# cursor-oled-1600nits README
+# cursor-oled-1600nits
 
 ![Theme Preview](https://raw.githubusercontent.com/redpredator8/cursor-oled-1600nits/main/Screenshot.jpg)
 
