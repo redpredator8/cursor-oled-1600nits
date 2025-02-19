@@ -29,6 +29,11 @@
         "label": "Cursor Oled 1600nits",
         "uiTheme": "vs-dark",
         "path": "./themes/Cursor Oled 1600nits-color-theme.json"
+      },
+      {
+        "label": "Cursor Oled 1600nits Saturated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cursor Oled 1600nits-color-theme-Saturated.json"
       }
     ]
   }
