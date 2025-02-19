@@ -2,7 +2,7 @@
   "name": "cursor-oled-1600nits",
   "displayName": "Cursor Default Oled 1600nits",
   "description": "Default Cursor but True Blacks",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "publisher": "redpredator8",
   "icon": "icon.png",
   "repository": {
