@@ -1,0 +1,35 @@
+{
+  "name": "cursor-oled-1600nits",
+  "displayName": "Cursor Default Oled 1600nits",
+  "description": "Default Cursor but True Blacks, Work with you Macbook Pro Outside while using HDR brightness overwrite without overheating your display, or if you have an Oled enjoy the true blacks as well!!",
+  "version": "0.0.1",
+  "publisher": "redpredator8",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "oled",
+    "true black",
+    "black",
+    "redpredator8",
+    "1600 nits",
+    "macbook pro",
+    "hdr",
+    "default",
+    "cursor"
+  ],
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursor Oled 1600nits",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cursor Oled 1600nits-color-theme.json"
+      }
+    ]
+  }
+}
