@@ -180,7 +180,7 @@
     "notificationsInfoIcon.foreground": "#228df2",
     "notificationsWarningIcon.foreground": "#ea7620",
     "panel.background": "#000000",
-    "panel.border": "#000000",
+    "panel.border": "#383838",
     "panelSection.border": "#383838",
     "panelTitle.activeBorder": "#d6d6dd",
     "panelTitle.activeForeground": "#d6d6dd",
